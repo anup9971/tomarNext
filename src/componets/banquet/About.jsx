@@ -109,13 +109,13 @@ export default function About() {
       {/* Flex Container */}
       <div className="flex flex-col  bg-white md:flex-row gap-8 items-start">
         {/* Image */}
-        <div className="w-full h-[200px] md:h-[350px] md:w-1/2">
+        <div className="w-full h-[200px] md:h-[420px] md:w-1/2">
           <Image
             src="/img/banquet/part-hall.jpg"
             alt="Party Hall"
             width={600}
             height={400}
-            className="rounded-lg h-[200px] shadow-md w-full md:h-[350px] object-cover"
+            className="rounded-lg h-[200px] shadow-md w-full md:h-[420px] object-cover"
           />
         </div>
 
@@ -216,13 +216,13 @@ export default function About() {
 {/* ------------------------------ Seminars/ Training Hall in Delhi- Tomar Hospitality ------------------- */}
         <div className="flex flex-col lg:flex-row items-start justify-between gap-6 p-6 lg:p-16 bg-white">
       {/* Left Image Section */}
-      <div className="lg:w-1/2 md:h-[300px]">
+      <div className="lg:w-1/2 md:h-[400px]">
         <Image
           src="/img/banquet/seminar.jpg"
           alt="Seminar Training Hall"
           width={800}
           height={600}
-          className="rounded-xl shadow-lg w-full md:h-[300px]"
+          className="rounded-xl shadow-lg w-full md:h-[400px]"
         />
       </div>
 
@@ -237,7 +237,10 @@ export default function About() {
           party, company annual function and family party program we have big hall capacity 120
           peoples.
         </p>
-
+         <div className="border border-gray-300 rounded-md divide-y">
+            <div className="px-4 py-2 bg-gray-50">Projector With Screen - INR 1500/-</div>
+            <div className="px-4 py-2 bg-gray-50">Sound System With Mic - INR 2500/-</div>
+          </div>
         <div className="mt-6">
           <h3 className="font-semibold text-gray-800 text-lg mb-2">Quick Contact</h3>
           <div className="flex items-center space-x-2 text-gray-800 mb-1">

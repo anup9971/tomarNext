@@ -9,10 +9,10 @@ const AboutSec = ({about}) => {
       {/* About Section */}
       <div className="max-w-4xl mx-auto mb-16">
         <h2 className="text-3xl md:text-4xl font-bold mb-6 text-gray-900">
-         About Hotel {about}
+         About  {about}
         </h2>
         <p className="text-gray-700 text-lg leading-relaxed">
-      Welcome to Hotel {about} by Tomar Hospitality – A Luxury Hotel in Karol Bagh, New Delhi Experience the perfect blend of timeless elegance and modern comfort at Hotel {about}, a premium hotel by Tomar Hospitality, located in the heart of Karol Bagh, New Delhi. Our well-appointed rooms, world-class service, and modern amenities are designed to make your stay truly exceptional. Whether you're visiting for business travel, a leisure getaway, or a family vacation, our hotel offers a warm and personalized hospitality experience from check-in to check-out. Enjoy spacious accommodations, complimentary Wi-Fi, in-room dining, and easy access to Karol Bagh Metro Station and major city attractions.
+      Welcome to  {about} by Tomar Hospitality – A Luxury Hotel in Karol Bagh, New Delhi Experience the perfect blend of timeless elegance and modern comfort at Hotel {about}, a premium hotel by Tomar Hospitality, located in the heart of Karol Bagh, New Delhi. Our well-appointed rooms, world-class service, and modern amenities are designed to make your stay truly exceptional. Whether you're visiting for business travel, a leisure getaway, or a family vacation, our hotel offers a warm and personalized hospitality experience from check-in to check-out. Enjoy spacious accommodations, complimentary Wi-Fi, in-room dining, and easy access to Karol Bagh Metro Station and major city attractions.
         </p>
       
       </div>

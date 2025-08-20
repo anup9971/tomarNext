@@ -52,9 +52,9 @@ export default function page() {
   return (
     <>
     <HotelSlider images={images} autoPlay={true} autoPlayInterval={6000} height="60vh"/>
-     <AboutSec about={"Hotel Marble ARL"}/>
+     <AboutSec about={"Hotel Marble King"}/>
      <RoomsSection/>
-     <RoomBookingForm about={"Hotel Marble ARL"}/>
+     <RoomBookingForm about={"Hotel Marble King"}/>
     </>
   )
 }

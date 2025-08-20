@@ -10,7 +10,7 @@ export default function Membership() {
       {/* Heading */}
       <h2 className="text-3xl md:text-4xl font-bold text-black mb-2 uppercase">Membership</h2>
       <p className="text-gray-600 max-w-2xl mx-auto mb-10">
-        Welcome to The Grand Shoba a Delhi of tailored privileges and benefits, designed to enhance and enrich your experience.
+        Welcome to Tomar Hospitality a Delhi of tailored privileges and benefits, designed to enhance and enrich your experience.
       </p>
 
       {/* Cards */}

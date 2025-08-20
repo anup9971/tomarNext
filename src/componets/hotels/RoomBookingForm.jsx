@@ -163,7 +163,7 @@ const handleSubmit = async (e) => {
     required
   >
     <option value="">Select Hotel</option>
-    <option value="Hotel Marble ARL">Hotel Marble ARL</option>
+    <option value="Hotel Marble King">Hotel Marble King</option>
     <option value="Hotel Siam International">Hotel Siam International</option>
     <option value="Tomar Residency">Tomar Residency</option>
   </select>

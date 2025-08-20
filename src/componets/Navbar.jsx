@@ -25,7 +25,7 @@ export default function Navbar() {
     { href: "/hotel-siam", label: "Hotel Siam International" },
     { href: "/hotel-amrit-villa", label: "Hotel Amrit Villa" },
     { href: "/hotel-spb-87-delhi", label: "Hotel SPB-87 Delhi" },
-    { href: "/hotel-marble-arl", label: "Hotel Marble ARL" },
+    { href: "/hotel-marble-king", label: "Hotel Marble King" },
   ];
 
   const handleAboutKey = (e) => {
