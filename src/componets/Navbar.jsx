@@ -12,7 +12,7 @@ export default function Navbar() {
 
   const navLinks = [
     { href: "/", label: "HOME" },
-    { href: "#hotel", label: "HOTEL", hasSub: true },
+    { href: "#hotel", label: "HOTELS", hasSub: true },
  
     { href: "/rooms", label: "ROOMS" },
     { href: "/corporate", label: "CORPORATE" },
@@ -142,7 +142,7 @@ export default function Navbar() {
                       onClick={() => setAboutOpen(!aboutOpen)}
                       className="w-full flex items-center justify-between px-3 py-2 text-white hover:bg-white/10"
                     >
-                      <span>ABOUT</span>
+                      <span>HOTELS</span>
                       <FiChevronDown className={`${aboutOpen ? "rotate-180" : "rotate-0"} transition-transform`} />
                     </button>
                     <div className={`${aboutOpen ? "max-h-60" : "max-h-0"} overflow-hidden transition-all duration-300 bg-black/80`}>

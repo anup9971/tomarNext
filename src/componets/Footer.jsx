@@ -89,7 +89,7 @@ export default function Footer() {
               <ul className="space-y-2 text-sm">
                 {services.map((s) => (
                   <li key={s.href}>
-                    <Link href={s.href} className="hover:underline text-white/90">{s.label}</Link>
+                    <Link href={s.href} className="hover:underline  text-white/90">{s.label}</Link>
                   </li>
                 ))}
               </ul>

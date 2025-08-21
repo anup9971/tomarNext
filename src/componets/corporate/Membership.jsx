@@ -16,7 +16,7 @@ export default function Membership() {
       {/* Cards */}
       <div className="flex flex-wrap justify-center items-center gap-8 md:gap-40 mb-10">
         <Image
-          src="/img/pass/silver1.jpg" // replace with actual path
+          src="/img/pass/newGold.jpg" // replace with actual path
           alt="Silver Member"
           width={250}
           height={150}
